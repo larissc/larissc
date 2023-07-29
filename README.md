@@ -10,9 +10,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="70" alt="python logo"  />
-  <img width="200" />
+  <img width="150" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="80" alt="jupyter logo"  />
-  <img width="100" />
+  <img width="150" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="70" alt="anaconda logo"  />
 </div>
 
