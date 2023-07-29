@@ -1,10 +1,10 @@
 <br clear="both">
 
-<img align="right" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm82bzR1NmZ1aGJodGx0dmdpMzloN3d3bnFjYXQyazNyazh5OHlwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HQHwvSBSy7s0AXOlWt/giphy.gif"  />
+<img align="right" height="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm82bzR1NmZ1aGJodGx0dmdpMzloN3d3bnFjYXQyazNyazh5OHlwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HQHwvSBSy7s0AXOlWt/giphy.gif"  />
 
 ###
 
-<h2 align="left">Hi 👋!<br><br>My name is Larissa<br><br>🤖<br><br>Bye bye 👋👋</h2>
+<h2 align="left">Hi 👋!<br><br>My name is Larissa<br><br>🤖<br><br>🤖<br><br>Bye bye 👋👋</h2>
 
 ###
 
