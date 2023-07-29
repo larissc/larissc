@@ -1,3 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:F5002A,100:F600E0&Feight=400&section=header&text=%20&fontColor=4A4957&animation=blinking&fontSize=90" />
+<h2 align="left">Hi 👋! My name is Larissa....</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7AD3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Larissa;Im+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm82bzR1NmZ1aGJodGx0dmdpMzloN3d3bnFjYXQyazNyazh5OHlwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HQHwvSBSy7s0AXOlWt/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="64" alt="python logo"  />
+  <img width="75" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="64" alt="jupyter logo"  />
+  <img width="75" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="64" alt="anaconda logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/larissa/larissa/output/snake.svg" alt="Snake animation" />
+
+###
