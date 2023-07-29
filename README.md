@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋!<br><br> My name is Larissa.<br> 👋<br>🤖<br>👋<br>🤖</h2>
+<h2 align="left">Hi 👋!<br><br>My name is Larissa<br><br>🤖<br><br>🤖<br><br>Bye bye 👋</h2>
 
 ###
 
@@ -17,11 +17,5 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="50" alt="anaconda logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<p align="left">Hello World!!</p>
 
 ###
